@@ -13,7 +13,7 @@
 %	Color			nominal		0:Vivid, 1:Natural, 2:Dull, 3:Black/White
 %	Medium0			nominal		0:Canvas, 1:Woodcut, 2:Paper, 3:Lithograph, 4:Panel, 5:Fiberboard
 %	Medium1			nominal		0:Oil, 1:Watercolor, 2:Acrylic, 3:Ink, 4:Enamel, 5:Polymer
-%	Artist			nominal		0:M.C. Escher, 1:Van Gogh, 2:Monet, 3:Manet, 4:Pollock, 5:Dali
+%	Artist			nominal		0:M.C. Escher, 1:Van Gogh, 2:Monet, 3:Manet, 4:Pollock, 5:Dali, 6:Picasso, 7:Raphael, 8:Rembrandt
 %
 %
 %
@@ -99,3 +99,39 @@
 2,2,1,0,0,5 %The Temptation of St. Anthony
 2,2,2,0,0,5 %Apparition of a Face and Fruit Dish on a Beach
 2,2,0,0,0,5 %The Hallucinogenic Toreador
+
+%Picasso
+0,2,0,0,0,6 %The Weeping Woman
+0,0,2,0,0,6 %The Old Guitarist
+0,2,0,0,0,6 %Girl Before A Mirror
+0,2,2,0,0,6 %Head of Woman
+0,2,0,0,0,6 %Seated Woman in Blue Dress
+0,2,0,0,0,6 %Jackeline with Flowers
+0,2,0,0,0,6 %Les Femmes d’Alger
+2,2,3,0,0,6 %Guernica
+0,2,0,0,0,6 %The Three Musicians
+0,2,1,0,0,6 %Les Demoiselles d’Avignon
+
+%Raphael
+0,0,1,4,0,7 %The Marriage of the Virgin
+0,0,1,5,0,7 %The Disputation of the Sacrament
+0,0,1,5,0,7 %The School of Athens
+0,0,1,0,0,7 %Sistine Madonna
+0,0,1,5,0,7 %The Triumph of Galatea
+0,0,1,0,0,7 %La Velata
+0,0,1,0,0,7 %Portrait of Baldassare Castiglione
+0,0,1,1,0,7 %La Fornarina
+0,0,1,1,1,7 %Transfiguration
+0,0,1,4,0,7 %La Belle Jardinière
+
+%Rembrandt
+0,0,1,0,0,8 %The Anatomy Lesson of Dr. Nicolaes Tulp
+0,0,1,0,0,8 %Knee length Figure of a Man in an Oriental Dress
+0,0,1,0,0,8 %The Storm on the Sea of Galilee
+0,0,1,0,0,8 %Belshazzar’s Feast
+0,0,1,0,0,8 %Danaë
+0,0,1,0,0,8 %The Night Watch
+0,0,1,0,0,8 %Bathsheba at Her Bath
+0,0,1,0,0,8 %Jacob Blessing the Sons of Joseph
+0,0,1,0,0,8 %Self-Portrait with Two Circles
+0,0,1,0,0,8 %The Jewish Bride
