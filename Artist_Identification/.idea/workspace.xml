@@ -1,7 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bfd11ad-dd44-4977-8b28-95073f31a83f" name="Default Changelist" comment="" />
+    <list default="true" id="9bfd11ad-dd44-4977-8b28-95073f31a83f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Artist_Identification.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Artist_Identification.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/artist_identification.arff" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/artist_identification.arff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz_01.npy.z" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz_01.npy.z" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz_02.npy.z" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz_02.npy.z" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz_03.npy.z" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/joblib/test/data/joblib_0.9.4.dev0_compressed_cache_size_pickle_py35_np19.gz_03.npy.z" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/.libs/libopenblas.PYQHXLVVQ7VESDPUVUADXEVJOBGHJPAY.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/.libs/libopenblas.PYQHXLVVQ7VESDPUVUADXEVJOBGHJPAY.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/lib_arpack-.LP4WTPW2CHL6BS2YTUTFGNLRSL2XGHUY.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/lib_arpack-.LP4WTPW2CHL6BS2YTUTFGNLRSL2XGHUY.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/lib_blas_su.U2YYMXFZ7KXPB6AHH3XLW57YLZIL5GJM.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/lib_blas_su.U2YYMXFZ7KXPB6AHH3XLW57YLZIL5GJM.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/lib_test_fo.JF5HTWMUPBXWGAYEBVEJU3OZAHTSVKCT.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/lib_test_fo.JF5HTWMUPBXWGAYEBVEJU3OZAHTSVKCT.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libansari.R6EA3HQP5KZ6TAXU4Y4ZVTRPT7UVA53Z.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libansari.R6EA3HQP5KZ6TAXU4Y4ZVTRPT7UVA53Z.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libbanded5x.RJXWDDSB2S4NZKLP4VGVMHGDASWUOSEJ.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libbanded5x.RJXWDDSB2S4NZKLP4VGVMHGDASWUOSEJ.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libbispeu.7AH3PCQ2E2NGLC3AQD7FFAH73KGJTZCJ.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libbispeu.7AH3PCQ2E2NGLC3AQD7FFAH73KGJTZCJ.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libblkdta00.DULR57PS4FZTVCXGOCHFLWASN24O3VBZ.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libblkdta00.DULR57PS4FZTVCXGOCHFLWASN24O3VBZ.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libchkder.G7WSOGIYYQO3UWFVEZ3PPXCXR53ADVPA.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libchkder.G7WSOGIYYQO3UWFVEZ3PPXCXR53ADVPA.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libcobyla2.25EVUSEBAW7VKISARB7LO3UGZPN2HXE3.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libcobyla2.25EVUSEBAW7VKISARB7LO3UGZPN2HXE3.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libd_odr.NZTJQ6B5ZO7TXBKD7AKHNA3WBUMJTS4X.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libd_odr.NZTJQ6B5ZO7TXBKD7AKHNA3WBUMJTS4X.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdcsrch.I2AOPDCXAPDRFNPWY55H5UE7XZSU5CVN.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdcsrch.I2AOPDCXAPDRFNPWY55H5UE7XZSU5CVN.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdet.KFHU3FS25WYJDCQNYBY5XLNU4KJNAGB5.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdet.KFHU3FS25WYJDCQNYBY5XLNU4KJNAGB5.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdfft_sub.RG66RN6PTKPW537SKMWRDL2WF6CKUCQR.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdfft_sub.RG66RN6PTKPW537SKMWRDL2WF6CKUCQR.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdfitpack.X6QDTSQ4MRSFGSKG3GH752LLQQ6JTUXW.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdfitpack.X6QDTSQ4MRSFGSKG3GH752LLQQ6JTUXW.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdgamln.MRC7OS3Z5PV3VSLKT24JXOFH6NQQU5WI.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdgamln.MRC7OS3Z5PV3VSLKT24JXOFH6NQQU5WI.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdop853.6TJTQZW3I3Q3QIDQHEOBEZKJ3NYRXI4B.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdop853.6TJTQZW3I3Q3QIDQHEOBEZKJ3NYRXI4B.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdqag.34RK5APO7VD7VD5HLFBNZKJLJMTYZK4I.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libdqag.34RK5APO7VD7VD5HLFBNZKJLJMTYZK4I.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libgetbreak.YR22BYCEBB7Y6VCUKFVY3Z57B75OBPGJ.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libgetbreak.YR22BYCEBB7Y6VCUKFVY3Z57B75OBPGJ.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/liblbfgsb.VGECCRVUVY5LHUMGLCGAM2TCRSYRWXLO.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/liblbfgsb.VGECCRVUVY5LHUMGLCGAM2TCRSYRWXLO.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libmvndst.5VXNIPAPINAF5NIHXAFNA4OTHOPNDEWG.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libmvndst.5VXNIPAPINAF5NIHXAFNA4OTHOPNDEWG.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libnnls.IXEEHJUCGHJL42YZEM6UIEMROJWXHMLJ.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libnnls.IXEEHJUCGHJL42YZEM6UIEMROJWXHMLJ.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libopenblas.PYQHXLVVQ7VESDPUVUADXEVJOBGHJPAY.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libopenblas.PYQHXLVVQ7VESDPUVUADXEVJOBGHJPAY.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libslsqp_op.RGGN6ZOFD2K47X7YRNDYCM7JFP4AGLER.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libslsqp_op.RGGN6ZOFD2K47X7YRNDYCM7JFP4AGLER.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libspecfun.LQCTHMCYNULEOOGKIO6AGREE6D6V37RU.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libspecfun.LQCTHMCYNULEOOGKIO6AGREE6D6V37RU.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libvode.4H5CFD446S6BA3EB5QHFUC3TBCCWKDPQ.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libvode.4H5CFD446S6BA3EB5QHFUC3TBCCWKDPQ.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libwrap_dum.52RXVMUN4YVWQ7T6VKP7O7FF7TV4BBL4.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libwrap_dum.52RXVMUN4YVWQ7T6VKP7O7FF7TV4BBL4.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libwrap_dum.IRG63L6H3CT7FK6LX5TAKZATNNUPQMVQ.gfortran-win_amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/scipy/.libs/libwrap_dum.IRG63L6H3CT7FK6LX5TAKZATNNUPQMVQ.gfortran-win_amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/1119/api-v1-json-data-features-1119.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/1119/api-v1-json-data-features-1119.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/1119/api-v1-json-data-list-data_name-adult-census-limit-2-data_version-1.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/1119/api-v1-json-data-list-data_name-adult-census-limit-2-data_version-1.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/1119/api-v1-json-data-list-data_name-adult-census-limit-2-status-active-.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/1119/api-v1-json-data-list-data_name-adult-census-limit-2-status-active-.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/1119/api-v1-json-data-qualities-1119.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/1119/api-v1-json-data-qualities-1119.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/2/api-v1-json-data-list-data_name-anneal-limit-2-data_version-1.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/2/api-v1-json-data-list-data_name-anneal-limit-2-data_version-1.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/2/api-v1-json-data-list-data_name-anneal-limit-2-status-active-.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/2/api-v1-json-data-list-data_name-anneal-limit-2-status-active-.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-features-292.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-features-292.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-features-40981.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-features-40981.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-list-data_name-australian-limit-2-data_version-1-status-deactivated.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-list-data_name-australian-limit-2-data_version-1-status-deactivated.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-list-data_name-australian-limit-2-data_version-1.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-list-data_name-australian-limit-2-data_version-1.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-list-data_name-australian-limit-2-status-active-.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/292/api-v1-json-data-list-data_name-australian-limit-2-status-active-.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40589/api-v1-json-data-features-40589.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40589/api-v1-json-data-features-40589.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40589/api-v1-json-data-list-data_name-emotions-limit-2-data_version-3.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40589/api-v1-json-data-list-data_name-emotions-limit-2-data_version-3.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40589/api-v1-json-data-list-data_name-emotions-limit-2-status-active-.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40589/api-v1-json-data-list-data_name-emotions-limit-2-status-active-.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40589/api-v1-json-data-qualities-40589.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40589/api-v1-json-data-qualities-40589.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40675/api-v1-json-data-features-40675.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40675/api-v1-json-data-features-40675.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40675/api-v1-json-data-list-data_name-glass2-limit-2-data_version-1-status-deactivated.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40675/api-v1-json-data-list-data_name-glass2-limit-2-data_version-1-status-deactivated.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40675/api-v1-json-data-list-data_name-glass2-limit-2-data_version-1.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40675/api-v1-json-data-list-data_name-glass2-limit-2-data_version-1.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40675/api-v1-json-data-list-data_name-glass2-limit-2-status-active-.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40675/api-v1-json-data-list-data_name-glass2-limit-2-status-active-.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40675/api-v1-json-data-qualities-40675.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40675/api-v1-json-data-qualities-40675.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40945/api-v1-json-data-features-40945.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40945/api-v1-json-data-features-40945.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40945/api-v1-json-data-qualities-40945.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40945/api-v1-json-data-qualities-40945.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40945/data-v1-download-16826755.arff.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40945/data-v1-download-16826755.arff.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40966/api-v1-json-data-features-40966.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40966/api-v1-json-data-features-40966.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40966/api-v1-json-data-list-data_name-miceprotein-limit-2-data_version-4.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40966/api-v1-json-data-list-data_name-miceprotein-limit-2-data_version-4.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40966/api-v1-json-data-list-data_name-miceprotein-limit-2-status-active-.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40966/api-v1-json-data-list-data_name-miceprotein-limit-2-status-active-.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40966/api-v1-json-data-qualities-40966.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40966/api-v1-json-data-qualities-40966.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40966/data-v1-download-17928620.arff.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/40966/data-v1-download-17928620.arff.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/561/api-v1-json-data-features-561.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/561/api-v1-json-data-features-561.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/561/api-v1-json-data-list-data_name-cpu-limit-2-data_version-1.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/561/api-v1-json-data-list-data_name-cpu-limit-2-data_version-1.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/561/api-v1-json-data-list-data_name-cpu-limit-2-status-active-.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/561/api-v1-json-data-list-data_name-cpu-limit-2-status-active-.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/561/api-v1-json-data-qualities-561.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/561/api-v1-json-data-qualities-561.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/api-v1-json-data-features-61.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/api-v1-json-data-features-61.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/api-v1-json-data-list-data_name-iris-limit-2-data_version-1.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/api-v1-json-data-list-data_name-iris-limit-2-data_version-1.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/api-v1-json-data-list-data_name-iris-limit-2-status-active-.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/api-v1-json-data-list-data_name-iris-limit-2-status-active-.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/api-v1-json-data-qualities-61.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/61/api-v1-json-data-qualities-61.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/62/api-v1-json-data-features-62.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/62/api-v1-json-data-features-62.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/62/api-v1-json-data-qualities-62.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/datasets/tests/data/openml/62/api-v1-json-data-qualities-62.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/ensemble/_hist_gradient_boosting/_gradient_boosting.cp37-win_amd64.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/sklearn/ensemble/_hist_gradient_boosting/_gradient_boosting.cp37-win_amd64.pyd" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +97,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="ProjectId" id="1aBKvebOzA8AICAD1KfiHNZDLil" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,12 +111,41 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/datasets" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Chees\PycharmProjects\CS 72\Artist_Identification\datasets" />
       <recent name="C:\Users\Chees\PycharmProjects\CS 72\Artist_Identification" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Artist_Identification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,5 +159,39 @@
       <updated>1586203778449</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="125" y="12" key="CommitChangelistDialog2" timestamp="1586280705255">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="125" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1586280705255" />
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom" timestamp="1586280692488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586280692488" />
+    <state width="1515" height="211" key="GridCell.Tab.0.center" timestamp="1586280692488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586280692488" />
+    <state width="1515" height="211" key="GridCell.Tab.0.left" timestamp="1586280692487">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586280692487" />
+    <state width="1515" height="211" key="GridCell.Tab.0.right" timestamp="1586280692488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586280692488" />
+    <state x="281" y="59" key="SettingsEditor" timestamp="1586279825000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="281" y="59" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586279825000" />
+    <state x="479" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586279792735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586279792735" />
+    <state x="581" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586280230526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="581" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1586280230526" />
   </component>
 </project>

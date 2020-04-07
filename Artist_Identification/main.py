@@ -2,14 +2,14 @@ from tools.arff import Arff
 from sklearn import tree
 
 if __name__ == '__main__':
-    mat = Arff("datasets/artist_identification.arff", label_count=1)  ## label_count = 0 because clustering is unsupervised.
+    mat = Arff("datasets/artist_identification.arff", label_count=1)
     data = mat.data[:, 0:-1]
     labels = mat.data[:, -1].reshape(-1, 1)
     DT = tree.DecisionTreeClassifier()
     DT.fit(data, labels)
-    score = DT.score(data, labels) # TODO: put in test data instead of just data (same for labels)
+    # score = DT.score(data, labels) # TODO: put in test data instead of just data (same for labels)
 
-    print("score: {}".format(score))
+    # print("score: {}".format(score))
 
 
     # print("DEBUG:\n\n**Lenses**\n")
