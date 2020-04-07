@@ -8,12 +8,12 @@
 %
 %	Name			Data Type	Definitions
 %	----			---------	-----------
-%	Subject Matter	nominal		0:People, 1:Landscape, 2:Abstract
+%	Subject Matter	nominal		0:People, 1:Landscape, 2:Abstract, 3:Design, 4:Object
 %	Style			nominal		0:Realistic, 1:Less Realistic, 2:Surreal
 %	Color			nominal		0:Vivid, 1:Natural, 2:Dull, 3:Black/White
-%	Medium0			nominal		0:Canvas, 1:Woodcut, 2:Paper, 3:Lithograph
-%	Medium1			nominal		0:Oil, 1:Watercolor, 2:Acrylic, 3:Ink
-%	Artist			nominal		0:M.C. Escher, 1:Van Gogh, 2:Monet, 
+%	Medium0			nominal		0:Canvas, 1:Woodcut, 2:Paper, 3:Lithograph, 4:Panel, 5:Fiberboard
+%	Medium1			nominal		0:Oil, 1:Watercolor, 2:Acrylic, 3:Ink, 4:Enamel, 5:Polymer, 6:Screenprint
+%	Artist			nominal		0:M.C. Escher, 1:Van Gogh, 2:Monet, 3:Manet, 4:Pollock, 5:Dali, 6:Warhol
 %
 %
 %
@@ -64,3 +64,39 @@ The Magpie
 Water lilies
 Jeane Marguerite LEcadre in the Garden
 Saliing Boats at Honfleur
+
+%Manet
+0,0,1,0,0,3 %A bar at the folies bergere
+0,1,1,0,0,3 %Le dejeuner sur l’herbe
+0,0,1,0,0,3 %Nana
+0,0,2,0,0,3 %The Fifer
+0,1,2,0,0,3 %Olympia
+0,1,1,0,0,3 %The Dead Christ with Angels
+0,0,2,0,0,3 %The Spanish Singer
+0,0,2,0,0,3 %The Dead Man
+0,0,1,0,0,3 %The Execution of Emperor Maximilian
+0,0,1,0,0,3 %The Old Musician
+
+%Pollock
+3,2,2,0,0,4 %Mural
+3,2,3,0,4,4 %Autumn Rhythm
+3,2,2,0,4,4 %Blue Poles
+3,2,0,0,0,4 %Convergence
+3,2,0,0,0,4 %The She Wolf
+3,2,2,5,0,4 %No. 5
+3,2,3,0,0,4 %One: Number 31
+3,2,0,5,0,4 %Number 17A
+3,2,0,0,0,4 %Shimmering Substance
+3,2,2,0,0,4 %Full Fathom Five
+
+%Dali
+1,2,1,0,0,5 %The Persistence of Memory
+2,2,0,0,0,5 %The Great Masturbator
+2,2,0,0,5,5 %The Burning Giraffe
+2,2,1,0,1,5 %Dream Caused by the Flight of a Bee…
+2,2,1,0,0,5 %Metamorphosis of Narcissus
+2,2,0,0,0,5 %The Elephants
+1,2,1,0,0,5 %Swans Reflecting Elephants
+2,2,1,0,0,5 %The Temptation of St. Anthony
+2,2,2,0,0,5 %Apparition of a Face and Fruit Dish on a Beach
+2,2,0,0,0,5 %The Hallucinogenic Toreador
