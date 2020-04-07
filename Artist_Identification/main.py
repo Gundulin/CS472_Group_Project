@@ -2,12 +2,18 @@ from tools.arff import Arff
 from sklearn import tree
 
 if __name__ == '__main__':
-    mat = Arff("datasets/artist_identification.arff", label_count=1)
-    data = mat.data[:, 0:-1]
-    labels = mat.data[:, -1].reshape(-1, 1)
+    mat = Arff("datasets/artist_identification_train.arff", label_count=1)
+
+    train_data = mat.data[:, 0:-1]
+    train_labels = mat.data[:, -1].reshape(-1, 1)
     DT = tree.DecisionTreeClassifier()
-    DT.fit(data, labels)
-    # score = DT.score(data, labels) # TODO: put in test data instead of just data (same for labels)
+    DT.fit(train_data, train_labels)
+
+    tat = Arff("datasets/artist_identification_test.arff", label_count=1)
+    test_data = tat.data[:, 0:-1]
+    test_labels = tat.data[:, -1].reshape(-1, 1)
+    score = DT.score(test_data, test_labels) # TODO: put in test data instead of just data (same for labels)
+    print("{}".format(score))
 
     # print("score: {}".format(score))
 
