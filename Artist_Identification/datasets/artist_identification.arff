@@ -13,7 +13,7 @@
 %	Color			nominal		0:Vivid, 1:Natural, 2:Dull, 3:Black/White
 %	Medium0			nominal		0:Canvas, 1:Woodcut, 2:Paper, 3:Lithograph, 4:Panel, 5:Fiberboard
 %	Medium1			nominal		0:Oil, 1:Watercolor, 2:Acrylic, 3:Ink, 4:Enamel, 5:Polymer, 6:Screenprint
-%	Artist			nominal		0:M.C. Escher, 1:Van Gogh, 2:Monet, 3:Manet, 4:Pollock, 5:Dali, 6:Warhol
+%	Artist			nominal		0:M.C. Escher, 1:Van Gogh, 2:Monet, 3:Manet, 4:Pollock, 5:Dali
 %
 %
 %
